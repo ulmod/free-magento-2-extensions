@@ -12,3 +12,4 @@
   * [Magento 2 Scroll To Top](https://www.ulmod.com/magento-2-scroll-to-top-extension.html)  
   * [Magento 2 Read More Less Description](https://www.ulmod.com/read-more-less-for-magento-2.html)  
   * [Magento 2 Reindexer](https://www.ulmod.com/reindexer-for-magento-2.html)  
+  * [Magento 2 Bundle Product Options/Items URLs](https://www.ulmod.com/magento-2-bundle-items-url.html)  
